@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942689092171",
+    "firebase_url": "https://adix-events-2e55b.firebaseio.com",
+    "project_id": "adix-events-2e55b",
+    "storage_bucket": "adix-events-2e55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942689092171:android:bedf7d115b77a72c",
+        "android_client_info": {
+          "package_name": "com.example.something.better"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942689092171-m0jeunm0mmhtk67mt5efj3s1jjbqjjsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.something.better",
+            "certificate_hash": "6c0b107dc68802b7eafbc01abc70ce1cd4fce086"
+          }
+        },
+        {
+          "client_id": "942689092171-pagdumafedof5jep3h6ikeq6qf7g5r61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrs7WYDnYjpI0pD-ISGwrZT1tCNsWvU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942689092171-pagdumafedof5jep3h6ikeq6qf7g5r61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
